@@ -19,7 +19,7 @@ const Insta = () => {
             Features include filters, hashtags, geotagging, and 
             engagement tools. Users follow accounts ranging from 
             friends and influencers to businesses and celebrities. 
-            Instagram's focus on aesthetics and community-building 
+            Instagram focus on aesthetics and community-building 
             has made it a hub for social commerce, marketing, and 
             self-expression, with features like Instagram Shopping, 
             IGTV, and Reels contributing to its growing popularity.</p>
