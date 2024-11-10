@@ -12,7 +12,7 @@ const Facebok = () => {
          <p>Facebook is a social media platform founded in 2004 by Mark
           Zuckerberg, connecting over 2.9 billion monthly active users 
           worldwide. Users create profiles, share content, join groups, 
-          and interact with friends, family, and interests. Facebook's 
+          and interact with friends, family, and interests. Facebook 
           features include news feed, messaging, events, and pages for 
           personal, business, and community purposes. With subsidiaries 
           like Instagram, WhatsApp, and Oculus VR, Facebook generates 
